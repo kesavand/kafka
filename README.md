@@ -10,7 +10,9 @@ Package sarama is a pure Go client library for dealing with Apache Kafka (versio
 General Terminologies
 --------------------
 Producer
+
 Consumer
+
 Consumer group 
 
 sarama client
