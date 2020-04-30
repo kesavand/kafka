@@ -18,10 +18,9 @@ Consumer group
 sarama client
 -------------
 AsyncProducer
-
 Receives message in channel and writes to kafka in the back ground
-SyncProducer
 
+SyncProducer
 provides a method which will block until the kafka acknowledges the writes, 
 
 Consumer
